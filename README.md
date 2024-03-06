@@ -9,17 +9,17 @@ The primary objective of this project is to understand customer sentiment toward
 Dataset
 The dataset consists of customer feedback data with the following columns:
 
-Clothing ID
-Age
-Title
-Review Text
-Rating
-Recommended IND
-Positive Feedback Count
-Division Name
-Department Name
-Class Name
-Methodology
+Clothing ID,
+Age,
+Title,
+Review Text,
+Rating,
+Recommended IND,
+Positive Feedback Count,
+Division Name,
+Department Name,
+Class Name,
+Methodology,
 The project is divided into several steps:
 
 Data Preprocessing: Cleaning and preprocessing the text data, including removing noise, tokenization, removing stop words, and lemmatization or stemming.
