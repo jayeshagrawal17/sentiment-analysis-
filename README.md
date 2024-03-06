@@ -19,7 +19,8 @@ Positive Feedback Count,
 Division Name,
 Department Name,
 Class Name,
-Methodology,
+Methodology
+
 The project is divided into several steps:
 
 Data Preprocessing: Cleaning and preprocessing the text data, including removing noise, tokenization, removing stop words, and lemmatization or stemming.
